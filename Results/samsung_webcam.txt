@@ -1,0 +1,60 @@
+ ==== Test 115 features ====
+Training time:512.6046073436737
+Testing time:14.236937999725342
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98332   0.99159     15645
+         1.0    0.99919   1.00000   0.99960    323072
+
+    accuracy                        0.99923    338717
+   macro avg    0.99960   0.99166   0.99559    338717
+weighted avg    0.99923   0.99923   0.99923    338717
+
+ ==== Test 92 features ====
+Training time:481.30980229377747
+Testing time:12.913408756256104
+              precision    recall  f1-score   support
+
+         0.0    0.92800   0.98370   0.95504     15645
+         1.0    0.99921   0.99630   0.99775    323072
+
+    accuracy                        0.99572    338717
+   macro avg    0.96361   0.99000   0.97640    338717
+weighted avg    0.99592   0.99572   0.99578    338717
+
+ ==== Test 69 features ====
+Training time:438.1216735839844
+Testing time:11.937926530838013
+              precision    recall  f1-score   support
+
+         0.0    0.23252   0.98479   0.37621     15645
+         1.0    0.99913   0.84259   0.91421    323072
+
+    accuracy                        0.84916    338717
+   macro avg    0.61582   0.91369   0.64521    338717
+weighted avg    0.96372   0.84916   0.88936    338717
+
+ ==== Test 46 features ====
+Training time:428.3862609863281
+Testing time:12.85913610458374
+              precision    recall  f1-score   support
+
+         0.0    0.99805   0.98319   0.99057     15645
+         1.0    0.99919   0.99991   0.99955    323072
+
+    accuracy                        0.99913    338717
+   macro avg    0.99862   0.99155   0.99506    338717
+weighted avg    0.99913   0.99913   0.99913    338717
+
+ ==== Test 23 features ====
+Training time:433.8534309864044
+Testing time:12.345536231994629
+              precision    recall  f1-score   support
+
+         0.0    0.99810   0.97252   0.98514     15645
+         1.0    0.99867   0.99991   0.99929    323072
+
+    accuracy                        0.99864    338717
+   macro avg    0.99838   0.98621   0.99222    338717
+weighted avg    0.99864   0.99864   0.99864    338717
+

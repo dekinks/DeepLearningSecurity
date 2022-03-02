@@ -1,0 +1,60 @@
+ ==== Test 115 Normal learning rate ====
+Training time:796.6609873771667
+Testing time:33.838202714920044
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.82557   0.90445      5859
+         1.0    0.99877   1.00000   0.99939    831298
+
+    accuracy                        0.99878    837157
+   macro avg    0.99939   0.91278   0.95192    837157
+weighted avg    0.99878   0.99878   0.99872    837157
+
+ ==== Test 92 Normal learning rate ====
+Training time:736.8172507286072
+Testing time:31.93419599533081
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.89333   0.94366      5859
+         1.0    0.99925   1.00000   0.99962    831298
+
+    accuracy                        0.99925    837157
+   macro avg    0.99962   0.94666   0.97164    837157
+weighted avg    0.99925   0.99925   0.99923    837157
+
+ ==== Test 69 Normal learning rate ====
+Training time:730.9665312767029
+Testing time:33.22584891319275
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.89452   0.94432      5859
+         1.0    0.99926   1.00000   0.99963    831298
+
+    accuracy                        0.99926    837157
+   macro avg    0.99963   0.94726   0.97198    837157
+weighted avg    0.99926   0.99926   0.99924    837157
+
+ ==== Test 46 Normal learning rate ====
+Training time:659.7032158374786
+Testing time:26.016391038894653
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.89111   0.94242      5859
+         1.0    0.99923   1.00000   0.99962    831298
+
+    accuracy                        0.99924    837157
+   macro avg    0.99962   0.94555   0.97102    837157
+weighted avg    0.99924   0.99924   0.99922    837157
+
+ ==== Test 23 Normal learning rate ====
+Training time:672.0258882045746
+Testing time:28.100983142852783
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.86721   0.92888      5859
+         1.0    0.99906   1.00000   0.99953    831298
+
+    accuracy                        0.99907    837157
+   macro avg    0.99953   0.93361   0.96421    837157
+weighted avg    0.99907   0.99907   0.99904    837157
+

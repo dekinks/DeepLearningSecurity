@@ -1,0 +1,86 @@
+ ==== Test 115 features ====
+Training time:912.0599544048309
+Testing time:26.99203586578369
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.03470   0.06707     18647
+         1.0    0.97704   1.00000   0.98839    766106
+
+    accuracy                        0.97706    784753
+   macro avg    0.98852   0.51735   0.52773    784753
+weighted avg    0.97759   0.97706   0.96650    784753
+
+ ==== Test 92 features ====
+Training time:1065.4411571025848
+Testing time:24.878563404083252
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.03094   0.06003     18647
+         1.0    0.97696   1.00000   0.98834    766106
+
+    accuracy                        0.97697    784753
+   macro avg    0.98848   0.51547   0.52419    784753
+weighted avg    0.97750   0.97697   0.96629    784753
+
+============================================================================================================================================
+
+ ==== Test 115 Normal learning rate ====
+Training time:1218.3783569335938
+Testing time:31.164421558380127
+              precision    recall  f1-score   support
+
+         0.0    0.99994   0.95592   0.97744     18647
+         1.0    0.99893   1.00000   0.99946    766106
+
+    accuracy                        0.99895    784753
+   macro avg    0.99944   0.97796   0.98845    784753
+weighted avg    0.99895   0.99895   0.99894    784753
+
+ ==== Test 92 features ====
+Training time:1181.0826592445374
+Testing time:29.62564778327942
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.95114   0.97496     18647
+         1.0    0.99881   1.00000   0.99941    766106
+
+    accuracy                        0.99884    784753
+   macro avg    0.99941   0.97557   0.98718    784753
+weighted avg    0.99884   0.99884   0.99882    784753
+
+ ==== Test 69 Normal learning rate ====
+Training time:1089.5981016159058
+Testing time:29.46030068397522
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.94723   0.97290     18647
+         1.0    0.99872   1.00000   0.99936    766106
+
+    accuracy                        0.99875    784753
+   macro avg    0.99936   0.97362   0.98613    784753
+weighted avg    0.99875   0.99875   0.99873    784753
+
+ ==== Test 46 Normal learning rate ====
+Training time:1042.404239654541
+Testing time:24.496097564697266
+              precision    recall  f1-score   support
+
+         0.0    0.99988   0.91736   0.95685     18647
+         1.0    0.99799   1.00000   0.99899    766106
+
+    accuracy                        0.99803    784753
+   macro avg    0.99894   0.95868   0.97792    784753
+weighted avg    0.99804   0.99803   0.99799    784753
+
+ ==== Test 23 Normal learning rate ====
+Training time:995.9041764736176
+Testing time:27.525400161743164
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.87682   0.93437     18647
+         1.0    0.99701   1.00000   0.99850    766106
+
+    accuracy                        0.99707    784753
+   macro avg    0.99851   0.93841   0.96643    784753
+weighted avg    0.99708   0.99707   0.99698    784753
+
