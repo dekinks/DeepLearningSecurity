@@ -1,0 +1,48 @@
+ ==== Test 23 features ====
+Training time:1607.3845748901367
+Testing time:5.72843599319458
+Accuracy:0.6365730045050249
+F1-score:0.5452093688660092
+Accuracy:0.5123771098199074
+F1-score:0.6365730045050249
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.29      1.00      0.45     13668
+    Mirai_Scan       0.97      1.00      0.98     15543
+     Mirai_Syn       0.00      0.00      0.00     17719
+     Mirai_Udp       0.00      0.00      0.00     32555
+Mirai_Udpplain       0.43      1.00      0.60     12121
+Bashlite_Combo       1.00      1.00      1.00      8722
+ Bashlite_Junk       1.00      1.00      1.00      4252
+ Bashlite_Scan       1.00      1.00      1.00      4178
+  Bashlite_Udp       1.00      1.00      1.00     15867
+  Bashlite_Tcp       1.00      1.00      1.00     13887
+
+      accuracy                           0.64    138512
+     macro avg       0.67      0.80      0.70    138512
+  weighted avg       0.51      0.64      0.55    138512
+
+ ==== Test 23 features ====
+Training time:2177.725546360016
+Testing time:9.183933734893799
+Accuracy:0.9929536791036155
+F1-score:0.9929559027825967
+Accuracy:0.9930317133849235
+F1-score:0.9929536791036155
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.98      1.00      0.99     13668
+    Mirai_Scan       1.00      1.00      1.00     15543
+     Mirai_Syn       1.00      0.97      0.98     17719
+     Mirai_Udp       1.00      0.99      0.99     32555
+Mirai_Udpplain       0.97      0.99      0.98     12121
+Bashlite_Combo       1.00      1.00      1.00      8722
+ Bashlite_Junk       1.00      1.00      1.00      4252
+ Bashlite_Scan       1.00      1.00      1.00      4178
+  Bashlite_Udp       1.00      1.00      1.00     15867
+  Bashlite_Tcp       1.00      1.00      1.00     13887
+
+      accuracy                           0.99    138512
+     macro avg       0.99      0.99      0.99    138512
+  weighted avg       0.99      0.99      0.99    138512
+

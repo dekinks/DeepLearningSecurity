@@ -1,0 +1,24 @@
+ ==== Test 23 features ====
+Training time:1885.6835587024689
+Testing time:4.4192047119140625
+Accuracy:0.9778387470808224
+F1-score:0.9778054920048298
+Accuracy:0.9782868985773617
+F1-score:0.9778387470808224
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.96      0.90      0.93     16722
+    Mirai_Scan       1.00      1.00      1.00      6889
+     Mirai_Syn       1.00      1.00      1.00     18857
+     Mirai_Udp       0.92      0.97      0.94     22781
+Mirai_Udpplain       0.99      0.97      0.98     11736
+Bashlite_Combo       1.00      1.00      1.00      8142
+ Bashlite_Junk       1.00      1.00      1.00      4286
+ Bashlite_Scan       1.00      1.00      1.00      4173
+  Bashlite_Udp       1.00      1.00      1.00     15558
+  Bashlite_Tcp       1.00      1.00      1.00     13322
+
+      accuracy                           0.98    122466
+     macro avg       0.99      0.98      0.99    122466
+  weighted avg       0.98      0.98      0.98    122466
+

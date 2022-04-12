@@ -1,0 +1,19 @@
+ ==== Test 23 features ====
+Training time:616.419497013092
+Testing time:1.9391741752624512
+Accuracy:0.9997523628709398
+F1-score:0.9997523532921395
+Accuracy:0.9997524996790484
+F1-score:0.9997523628709398
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
