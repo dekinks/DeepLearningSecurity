@@ -36,3 +36,269 @@ Bashlite_Combo       1.00      1.00      1.00      8800
      macro avg       1.00      1.00      1.00     48458
   weighted avg       1.00      1.00      1.00     48458
 
+ ==== Test 23 features ====
+Training time:692.2649140357971
+Testing time:2.197554349899292
+Accuracy:0.9996417885288044
+F1-score:0.9996418301392195
+Accuracy:0.9996421372115665
+F1-score:0.9996417885288044
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:683.0926389694214
+Testing time:2.3632378578186035
+Accuracy:0.9995785747397699
+F1-score:0.999578628304107
+Accuracy:0.9995790259537154
+F1-score:0.9995785747397699
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:609.3288660049438
+Testing time:1.955732822418213
+Accuracy:0.9996417885288044
+F1-score:0.9996418445324939
+Accuracy:0.9996421852271189
+F1-score:0.9996417885288044
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+========================================================= ==== Test 23 features ====
+Training time:646.9216833114624
+Testing time:1.5777621269226074
+Accuracy:0.999957857473977
+F1-score:0.9999578608361442
+Accuracy:0.9999578763254761
+F1-score:0.999957857473977
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:203.41955852508545
+Testing time:1.2624528408050537
+Accuracy:1.0
+F1-score:1.0
+Accuracy:1.0
+F1-score:1.0
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:205.79920053482056
+Testing time:1.2227964401245117
+Accuracy:0.9999789287369885
+F1-score:0.999978929577673
+Accuracy:0.9999789334509177
+F1-score:0.9999789287369885
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:251.23759055137634
+Testing time:1.7407793998718262
+Accuracy:1.0
+F1-score:1.0
+Accuracy:1.0
+F1-score:1.0
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:247.09184455871582
+Testing time:1.358583688735962
+Accuracy:0.9998946436849425
+F1-score:0.9998946354210676
+Accuracy:0.99989468744398
+F1-score:0.9998946436849425
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:255.71585369110107
+Testing time:1.4006953239440918
+Accuracy:0.999957857473977
+F1-score:0.9999578538288229
+Accuracy:0.9999578628799838
+F1-score:0.999957857473977
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:269.7664268016815
+Testing time:1.7110340595245361
+Accuracy:0.9998946436849425
+F1-score:0.9998946491211012
+Accuracy:0.9998946992095703
+F1-score:0.9998946436849425
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:276.68292903900146
+Testing time:1.5431172847747803
+Accuracy:0.999873572421931
+F1-score:0.9998735606090753
+Accuracy:0.9998735939378582
+F1-score:0.999873572421931
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:275.90146827697754
+Testing time:1.589315414428711
+Accuracy:0.999873572421931
+F1-score:0.9998735739702933
+Accuracy:0.999873579199649
+F1-score:0.999873572421931
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:267.2683992385864
+Testing time:1.3199620246887207
+Accuracy:0.999957857473977
+F1-score:0.999957857473977
+Accuracy:0.999957857473977
+F1-score:0.999957857473977
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
+ ==== Test 23 features ====
+Training time:269.2828812599182
+Testing time:1.6604588031768799
+Accuracy:0.9998946436849425
+F1-score:0.9998946439198951
+Accuracy:0.9998946473275544
+F1-score:0.9998946436849425
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      7952
+ Bashlite_Junk       1.00      1.00      1.00      4469
+ Bashlite_Scan       1.00      1.00      1.00      4218
+  Bashlite_Udp       1.00      1.00      1.00     15589
+  Bashlite_Tcp       1.00      1.00      1.00     15230
+
+      accuracy                           1.00     47458
+     macro avg       1.00      1.00      1.00     47458
+  weighted avg       1.00      1.00      1.00     47458
+
