@@ -214,3 +214,274 @@ Bashlite_Combo       1.00      1.00      1.00      8957
      macro avg       1.00      1.00      1.00    145308
   weighted avg       1.00      1.00      1.00    145308
 
+ ==== Test 23 features ====
+Training time:1453.0635030269623
+Testing time:6.8121654987335205
+Accuracy:0.9971439975775593
+F1-score:0.9971538836104947
+Accuracy:0.997191183606808
+F1-score:0.9971439975775593
+                precision    recall  f1-score   support
+
+     Mirai_Ack       1.00      1.00      1.00     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       1.00      0.99      1.00     18385
+     Mirai_Udp       1.00      0.99      1.00     35649
+Mirai_Udpplain       0.97      1.00      0.99     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.295992374420166
+Testing time:0.16672229766845703
+Accuracy:0.8062185151540177
+F1-score:0.811394128091226
+Accuracy:0.8916708259074563
+F1-score:0.8062185151540177
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.64      0.70      0.67     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.45      0.98      0.61     18385
+     Mirai_Udp       1.00      0.51      0.67     35649
+Mirai_Udpplain       1.00      0.56      0.72     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           0.81    145308
+     macro avg       0.91      0.87      0.87    145308
+  weighted avg       0.89      0.81      0.81    145308
+
+
+ ==== KNN 23 features ====
+Training time:0.09415102005004883
+Testing time:1986.9192280769348
+Accuracy:0.9954441599911912
+F1-score:0.9954424535450656
+Accuracy:0.9954423621364774
+F1-score:0.9954441599911912
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.99      1.00      0.99     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.99      0.99      0.99     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       0.98      0.98      0.98     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+ ==== Test 23 features ====
+Training time:1350.3634161949158
+Testing time:8.950150489807129
+Accuracy:0.9987130784265147
+F1-score:0.9987130416847882
+Accuracy:0.9987130767470964
+F1-score:0.9987130784265147
+                precision    recall  f1-score   support
+
+     Mirai_Ack       1.00      1.00      1.00     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       1.00      1.00      1.00     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       0.99      0.99      0.99     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.2459120750427246
+Testing time:0.14785051345825195
+Accuracy:0.8347991851790679
+F1-score:0.8458075201621299
+Accuracy:0.9157278668708588
+F1-score:0.8347991851790679
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.94      0.62      0.75     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.45      0.99      0.61     18385
+     Mirai_Udp       0.97      0.65      0.78     35649
+Mirai_Udpplain       1.00      0.55      0.71     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           0.83    145308
+     macro avg       0.93      0.88      0.88    145308
+  weighted avg       0.92      0.83      0.85    145308
+
+ ==== Test 23 features ====
+Training time:1272.6753990650177
+Testing time:6.908325433731079
+Accuracy:0.9992705150439067
+F1-score:0.999270628790168
+Accuracy:0.9992716136712405
+F1-score:0.9992705150439067
+                precision    recall  f1-score   support
+
+     Mirai_Ack       1.00      1.00      1.00     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       1.00      1.00      1.00     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       1.00      1.00      1.00     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.416273832321167
+Testing time:0.16838860511779785
+Accuracy:0.8822914085941587
+F1-score:0.8722137421850281
+Accuracy:0.9064883013638052
+F1-score:0.8822914085941587
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.94      0.39      0.55     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.64      0.93      0.76     18385
+     Mirai_Udp       0.83      0.97      0.90     35649
+Mirai_Udpplain       1.00      0.56      0.72     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           0.88    145308
+     macro avg       0.94      0.88      0.89    145308
+  weighted avg       0.91      0.88      0.87    145308
+
+
+ ==== KNN 23 features ====
+Training time:0.05530905723571777
+Testing time:1842.8754851818085
+Accuracy:0.9958708398711702
+F1-score:0.9958693029792202
+Accuracy:0.9958691270229688
+F1-score:0.9958708398711702
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.99      0.99      0.99     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.99      0.99      0.99     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       0.98      0.98      0.98     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+ ==== Test 23 features ====
+Training time:1185.0879735946655
+Testing time:7.046790599822998
+Accuracy:0.9993393343793873
+F1-score:0.9993394080979426
+Accuracy:0.9993396136087008
+F1-score:0.9993393343793873
+                precision    recall  f1-score   support
+
+     Mirai_Ack       1.00      1.00      1.00     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       1.00      1.00      1.00     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       1.00      1.00      1.00     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.27461862564086914
+Testing time:0.30803370475769043
+Accuracy:0.8040644699534781
+F1-score:0.8100300792970806
+Accuracy:0.891166630698236
+F1-score:0.8040644699534781
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.65      0.65      0.65     15329
+    Mirai_Scan       1.00      0.99      1.00     16152
+     Mirai_Syn       0.44      0.99      0.61     18385
+     Mirai_Udp       1.00      0.51      0.68     35649
+Mirai_Udpplain       1.00      0.57      0.72     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       1.00      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           0.80    145308
+     macro avg       0.91      0.87      0.86    145308
+  weighted avg       0.89      0.80      0.81    145308
+
+
+ ==== KNN 23 features ====
+Training time:0.10489702224731445
+Testing time:1831.9506483078003
+Accuracy:0.9955198612602196
+F1-score:0.9955180357195106
+Accuracy:0.9955178250504726
+F1-score:0.9955198612602196
+                precision    recall  f1-score   support
+
+     Mirai_Ack       0.99      1.00      0.99     15329
+    Mirai_Scan       1.00      1.00      1.00     16152
+     Mirai_Syn       0.99      0.99      0.99     18385
+     Mirai_Udp       1.00      1.00      1.00     35649
+Mirai_Udpplain       0.98      0.98      0.98     12297
+Bashlite_Combo       1.00      1.00      1.00      8957
+ Bashlite_Junk       1.00      1.00      1.00      4360
+ Bashlite_Scan       0.99      1.00      1.00      4477
+  Bashlite_Udp       1.00      1.00      1.00     15881
+  Bashlite_Tcp       1.00      1.00      1.00     13821
+
+      accuracy                           1.00    145308
+     macro avg       1.00      1.00      1.00    145308
+  weighted avg       1.00      1.00      1.00    145308
+
