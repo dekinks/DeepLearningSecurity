@@ -58,3 +58,399 @@ Testing time:12.345536231994629
    macro avg    0.99838   0.98621   0.99222    338717
 weighted avg    0.99864   0.99864   0.99864    338717
 
+ ==== Test 115 features ====
+Training time:305.65331530570984
+Testing time:10.462013959884644
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98146   0.99065     15645
+         1.0    0.99910   1.00000   0.99955    323072
+
+    accuracy                        0.99914    338717
+   macro avg    0.99955   0.99073   0.99510    338717
+weighted avg    0.99914   0.99914   0.99914    338717
+
+ ==== Test 115 features ====
+Training time:308.5342082977295
+Testing time:7.697177410125732
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98268   0.99126     15645
+         1.0    0.99916   1.00000   0.99958    323072
+
+    accuracy                        0.99920    338717
+   macro avg    0.99958   0.99134   0.99542    338717
+weighted avg    0.99920   0.99920   0.99920    338717
+
+ ==== Test 115 features ====
+Training time:308.0466802120209
+Testing time:7.595386981964111
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98460   0.99224     15645
+         1.0    0.99925   1.00000   0.99963    323072
+
+    accuracy                        0.99929    338717
+   macro avg    0.99963   0.99230   0.99593    338717
+weighted avg    0.99929   0.99929   0.99929    338717
+
+ ==== Test 115 features ====
+Training time:307.22433376312256
+Testing time:6.131634473800659
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98376   0.99182     15645
+         1.0    0.99921   1.00000   0.99961    323072
+
+    accuracy                        0.99925    338717
+   macro avg    0.99961   0.99188   0.99571    338717
+weighted avg    0.99925   0.99925   0.99925    338717
+
+ ==== Test 115 features ====
+Training time:290.43623661994934
+Testing time:6.152533531188965
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98479   0.99234     15645
+         1.0    0.99926   1.00000   0.99963    323072
+
+    accuracy                        0.99930    338717
+   macro avg    0.99963   0.99239   0.99598    338717
+weighted avg    0.99930   0.99930   0.99929    338717
+
+ ==== Test 115 features ====
+Training time:315.16968035697937
+Testing time:9.345256090164185
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98332   0.99159     15645
+         1.0    0.99919   1.00000   0.99960    323072
+
+    accuracy                        0.99923    338717
+   macro avg    0.99960   0.99166   0.99559    338717
+weighted avg    0.99923   0.99923   0.99923    338717
+
+ ==== Test 115 features ====
+Training time:295.15419459342957
+Testing time:7.369502067565918
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98357   0.99172     15645
+         1.0    0.99921   1.00000   0.99960    323072
+
+    accuracy                        0.99924    338717
+   macro avg    0.99960   0.99179   0.99566    338717
+weighted avg    0.99924   0.99924   0.99924    338717
+
+ ==== Test 92 features ====
+Training time:281.8059115409851
+Testing time:7.376842737197876
+              precision    recall  f1-score   support
+
+         0.0    0.98022   0.98517   0.98269     15645
+         1.0    0.99928   0.99904   0.99916    323072
+
+    accuracy                        0.99840    338717
+   macro avg    0.98975   0.99210   0.99092    338717
+weighted avg    0.99840   0.99840   0.99840    338717
+
+ ==== Test 92 features ====
+Training time:281.82562947273254
+Testing time:7.49945855140686
+              precision    recall  f1-score   support
+
+         0.0    0.98759   0.98185   0.98471     15645
+         1.0    0.99912   0.99940   0.99926    323072
+
+    accuracy                        0.99859    338717
+   macro avg    0.99336   0.99062   0.99199    338717
+weighted avg    0.99859   0.99859   0.99859    338717
+
+ ==== Test 92 features ====
+Training time:261.5224928855896
+Testing time:5.4405670166015625
+              precision    recall  f1-score   support
+
+         0.0    0.99619   0.98568   0.99091     15645
+         1.0    0.99931   0.99982   0.99956    323072
+
+    accuracy                        0.99916    338717
+   macro avg    0.99775   0.99275   0.99523    338717
+weighted avg    0.99916   0.99916   0.99916    338717
+
+ ==== Test 92 features ====
+Training time:284.0293302536011
+Testing time:6.781531810760498
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98357   0.99172     15645
+         1.0    0.99921   1.00000   0.99960    323072
+
+    accuracy                        0.99924    338717
+   macro avg    0.99960   0.99179   0.99566    338717
+weighted avg    0.99924   0.99924   0.99924    338717
+
+ ==== Test 92 features ====
+Training time:293.39103507995605
+Testing time:8.370830297470093
+              precision    recall  f1-score   support
+
+         0.0    0.61316   0.98466   0.75572     15645
+         1.0    0.99923   0.96992   0.98436    323072
+
+    accuracy                        0.97060    338717
+   macro avg    0.80620   0.97729   0.87004    338717
+weighted avg    0.98140   0.97060   0.97380    338717
+
+ ==== Test 92 features ====
+Training time:280.37965059280396
+Testing time:8.208119630813599
+              precision    recall  f1-score   support
+
+         0.0    0.98115   0.98504   0.98310     15645
+         1.0    0.99928   0.99908   0.99918    323072
+
+    accuracy                        0.99844    338717
+   macro avg    0.99022   0.99206   0.99114    338717
+weighted avg    0.99844   0.99844   0.99844    338717
+
+ ==== Test 92 features ====
+Training time:284.91290307044983
+Testing time:8.698488712310791
+              precision    recall  f1-score   support
+
+         0.0    0.99968   0.98472   0.99214     15645
+         1.0    0.99926   0.99998   0.99962    323072
+
+    accuracy                        0.99928    338717
+   macro avg    0.99947   0.99235   0.99588    338717
+weighted avg    0.99928   0.99928   0.99928    338717
+
+ ==== Test 92 features ====
+Training time:267.39451479911804
+Testing time:8.26961612701416
+              precision    recall  f1-score   support
+
+         0.0    0.75718   0.98242   0.85522     15645
+         1.0    0.99914   0.98474   0.99189    323072
+
+    accuracy                        0.98464    338717
+   macro avg    0.87816   0.98358   0.92355    338717
+weighted avg    0.98796   0.98464   0.98558    338717
+
+ ==== Test 92 features ====
+Training time:280.93250036239624
+Testing time:8.590198755264282
+              precision    recall  f1-score   support
+
+         0.0    0.99773   0.98300   0.99031     15645
+         1.0    0.99918   0.99989   0.99953    323072
+
+    accuracy                        0.99911    338717
+   macro avg    0.99845   0.99144   0.99492    338717
+weighted avg    0.99911   0.99911   0.99911    338717
+
+ ==== Test 92 features ====
+Training time:281.88810658454895
+Testing time:8.136223316192627
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.98421   0.99204     15645
+         1.0    0.99924   1.00000   0.99962    323072
+
+    accuracy                        0.99927    338717
+   macro avg    0.99962   0.99211   0.99583    338717
+weighted avg    0.99927   0.99927   0.99927    338717
+
+ ==== Test 92 features ====
+Training time:280.4128875732422
+Testing time:8.620683431625366
+              precision    recall  f1-score   support
+
+         0.0    0.99831   0.98345   0.99082     15645
+         1.0    0.99920   0.99992   0.99956    323072
+
+    accuracy                        0.99916    338717
+   macro avg    0.99876   0.99168   0.99519    338717
+weighted avg    0.99916   0.99916   0.99916    338717
+
+ ==== Test 69 features ====
+Training time:248.97623658180237
+Testing time:8.006381750106812
+              precision    recall  f1-score   support
+
+         0.0    0.15377   0.98440   0.26600     15645
+         1.0    0.99898   0.73767   0.84866    323072
+
+    accuracy                        0.74906    338717
+   macro avg    0.57638   0.86103   0.55733    338717
+weighted avg    0.95994   0.74906   0.82175    338717
+
+ ==== Test 69 features ====
+Training time:255.46222829818726
+Testing time:5.870406866073608
+              precision    recall  f1-score   support
+
+         0.0    0.40334   0.98562   0.57243     15645
+         1.0    0.99925   0.92939   0.96306    323072
+
+    accuracy                        0.93199    338717
+   macro avg    0.70129   0.95751   0.76774    338717
+weighted avg    0.97173   0.93199   0.94501    338717
+
+ ==== Test 69 features ====
+Training time:243.7387478351593
+Testing time:6.481202840805054
+              precision    recall  f1-score   support
+
+         0.0    0.41346   0.98562   0.58255     15645
+         1.0    0.99925   0.93229   0.96461    323072
+
+    accuracy                        0.93475    338717
+   macro avg    0.70636   0.95895   0.77358    338717
+weighted avg    0.97220   0.93475   0.94696    338717
+
+ ==== Test 69 features ====
+Training time:255.6057891845703
+Testing time:8.158672571182251
+              precision    recall  f1-score   support
+
+         0.0    0.76008   0.98555   0.85826     15645
+         1.0    0.99929   0.98494   0.99206    323072
+
+    accuracy                        0.98496    338717
+   macro avg    0.87969   0.98524   0.92516    338717
+weighted avg    0.98824   0.98496   0.98588    338717
+
+ ==== Test 69 features ====
+Training time:250.60340571403503
+Testing time:6.890851974487305
+              precision    recall  f1-score   support
+
+         0.0    0.17005   0.98415   0.28999     15645
+         1.0    0.99900   0.76740   0.86801    323072
+
+    accuracy                        0.77741    338717
+   macro avg    0.58452   0.87577   0.57900    338717
+weighted avg    0.96071   0.77741   0.84132    338717
+
+ ==== Test 46 features ====
+Training time:226.22966122627258
+Testing time:5.82097315788269
+              precision    recall  f1-score   support
+
+         0.0    0.99721   0.98249   0.98979     15645
+         1.0    0.99915   0.99987   0.99951    323072
+
+    accuracy                        0.99906    338717
+   macro avg    0.99818   0.99118   0.99465    338717
+weighted avg    0.99906   0.99906   0.99906    338717
+
+ ==== Test 46 features ====
+Training time:246.60371208190918
+Testing time:6.193585157394409
+              precision    recall  f1-score   support
+
+         0.0    0.99806   0.98415   0.99105     15645
+         1.0    0.99923   0.99991   0.99957    323072
+
+    accuracy                        0.99918    338717
+   macro avg    0.99864   0.99203   0.99531    338717
+weighted avg    0.99918   0.99918   0.99918    338717
+
+ ==== Test 46 features ====
+Training time:232.82085585594177
+Testing time:5.892129898071289
+              precision    recall  f1-score   support
+
+         0.0    0.99728   0.98319   0.99018     15645
+         1.0    0.99919   0.99987   0.99953    323072
+
+    accuracy                        0.99910    338717
+   macro avg    0.99823   0.99153   0.99486    338717
+weighted avg    0.99910   0.99910   0.99910    338717
+
+ ==== Test 46 features ====
+Training time:241.43186902999878
+Testing time:6.553971290588379
+              precision    recall  f1-score   support
+
+         0.0    0.99721   0.98249   0.98979     15645
+         1.0    0.99915   0.99987   0.99951    323072
+
+    accuracy                        0.99906    338717
+   macro avg    0.99818   0.99118   0.99465    338717
+weighted avg    0.99906   0.99906   0.99906    338717
+
+ ==== Test 46 features ====
+Training time:245.4592719078064
+Testing time:5.7235870361328125
+              precision    recall  f1-score   support
+
+         0.0    0.99799   0.98313   0.99050     15645
+         1.0    0.99918   0.99990   0.99954    323072
+
+    accuracy                        0.99913    338717
+   macro avg    0.99859   0.99151   0.99502    338717
+weighted avg    0.99913   0.99913   0.99913    338717
+
+ ==== Test 23 features ====
+Training time:178.51925444602966
+Testing time:5.1353936195373535
+              precision    recall  f1-score   support
+
+         0.0    0.99797   0.97309   0.98537     15645
+         1.0    0.99870   0.99990   0.99930    323072
+
+    accuracy                        0.99867    338717
+   macro avg    0.99833   0.98650   0.99234    338717
+weighted avg    0.99866   0.99867   0.99866    338717
+
+ ==== Test 23 features ====
+Training time:222.59801983833313
+Testing time:11.444703817367554
+              precision    recall  f1-score   support
+
+         0.0    0.99718   0.97277   0.98483     15645
+         1.0    0.99868   0.99987   0.99927    323072
+
+    accuracy                        0.99862    338717
+   macro avg    0.99793   0.98632   0.99205    338717
+weighted avg    0.99861   0.99862   0.99861    338717
+
+ ==== Test 23 features ====
+Training time:176.3911316394806
+Testing time:11.405542373657227
+              precision    recall  f1-score   support
+
+         0.0    0.99810   0.97603   0.98694     15645
+         1.0    0.99884   0.99991   0.99938    323072
+
+    accuracy                        0.99881    338717
+   macro avg    0.99847   0.98797   0.99316    338717
+weighted avg    0.99881   0.99881   0.99880    338717
+
+ ==== Test 23 features ====
+Training time:228.3404984474182
+Testing time:11.321284055709839
+              precision    recall  f1-score   support
+
+         0.0    0.99699   0.97399   0.98535     15645
+         1.0    0.99874   0.99986   0.99930    323072
+
+    accuracy                        0.99866    338717
+   macro avg    0.99787   0.98692   0.99233    338717
+weighted avg    0.99866   0.99866   0.99866    338717
+
+ ==== Test 23 features ====
+Training time:396.57571721076965
+Testing time:9.988293647766113
+              precision    recall  f1-score   support
+
+         0.0    0.99784   0.97271   0.98511     15645
+         1.0    0.99868   0.99990   0.99929    323072
+
+    accuracy                        0.99864    338717
+   macro avg    0.99826   0.98630   0.99220    338717
+weighted avg    0.99864   0.99864   0.99863    338717
+

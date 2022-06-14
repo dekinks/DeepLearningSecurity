@@ -134,3 +134,341 @@ Testing time:12.030961751937866
    macro avg    0.75437   0.96869   0.82534    328130
 weighted avg    0.98144   0.96559   0.97066    328130
 
+ ==== Test 115 Normal learning rate and anomaly threshold ====
+Training time:727.1774036884308
+Testing time:5.557103872299194
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99011   0.99503     11730
+         1.0    0.99963   1.00000   0.99982    316400
+
+    accuracy                        0.99965    328130
+   macro avg    0.99982   0.99506   0.99742    328130
+weighted avg    0.99965   0.99965   0.99965    328130
+
+ ==== Test 115 Normal learning rate and anomaly threshold ====
+Training time:664.2296116352081
+Testing time:5.578609466552734
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99437   0.99718     11730
+         1.0    0.99979   1.00000   0.99990    316400
+
+    accuracy                        0.99980    328130
+   macro avg    0.99990   0.99719   0.99854    328130
+weighted avg    0.99980   0.99980   0.99980    328130
+
+ ==== Test 115 Normal learning rate and anomaly threshold ====
+Training time:718.978089094162
+Testing time:9.372836351394653
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99369   0.99684     11730
+         1.0    0.99977   1.00000   0.99988    316400
+
+    accuracy                        0.99977    328130
+   macro avg    0.99988   0.99685   0.99836    328130
+weighted avg    0.99977   0.99977   0.99977    328130
+
+ ==== Test 115 Normal learning rate and anomaly threshold ====
+Training time:796.9688377380371
+Testing time:12.721150398254395
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99250   0.99623     11730
+         1.0    0.99972   1.00000   0.99986    316400
+
+    accuracy                        0.99973    328130
+   macro avg    0.99986   0.99625   0.99805    328130
+weighted avg    0.99973   0.99973   0.99973    328130
+
+ ==== Test 115 Normal learning rate and anomaly threshold ====
+Training time:703.052267074585
+Testing time:5.760271787643433
+              precision    recall  f1-score   support
+
+         0.0    0.99863   0.99182   0.99521     11730
+         1.0    0.99970   0.99995   0.99982    316400
+
+    accuracy                        0.99966    328130
+   macro avg    0.99916   0.99588   0.99752    328130
+weighted avg    0.99966   0.99966   0.99966    328130
+
+ ==== Test 92 Normal learning rate and anomaly threshold ====
+Training time:636.8120186328888
+Testing time:13.178252696990967
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99429   0.99714     11730
+         1.0    0.99979   1.00000   0.99989    316400
+
+    accuracy                        0.99980    328130
+   macro avg    0.99989   0.99714   0.99852    328130
+weighted avg    0.99980   0.99980   0.99980    328130
+
+ ==== Test 92 Normal learning rate and anomaly threshold ====
+Training time:650.7629446983337
+Testing time:5.266918897628784
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99565   0.99782     11730
+         1.0    0.99984   1.00000   0.99992    316400
+
+    accuracy                        0.99984    328130
+   macro avg    0.99992   0.99783   0.99887    328130
+weighted avg    0.99984   0.99984   0.99984    328130
+
+ ==== Test 92 Normal learning rate and anomaly threshold ====
+Training time:678.0177092552185
+Testing time:5.9082536697387695
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99429   0.99714     11730
+         1.0    0.99979   1.00000   0.99989    316400
+
+    accuracy                        0.99980    328130
+   macro avg    0.99989   0.99714   0.99852    328130
+weighted avg    0.99980   0.99980   0.99980    328130
+
+ ==== Test 92 Normal learning rate and anomaly threshold ====
+Training time:616.3130269050598
+Testing time:12.167206287384033
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99506   0.99752     11730
+         1.0    0.99982   1.00000   0.99991    316400
+
+    accuracy                        0.99982    328130
+   macro avg    0.99991   0.99753   0.99871    328130
+weighted avg    0.99982   0.99982   0.99982    328130
+
+ ==== Test 92 Normal learning rate and anomaly threshold ====
+Training time:635.9278120994568
+Testing time:13.360115051269531
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.99506   0.99752     11730
+         1.0    0.99982   1.00000   0.99991    316400
+
+    accuracy                        0.99982    328130
+   macro avg    0.99991   0.99753   0.99871    328130
+weighted avg    0.99982   0.99982   0.99982    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:593.2914645671844
+Testing time:5.0777716636657715
+              precision    recall  f1-score   support
+
+         0.0    0.18686   0.98977   0.31437     11730
+         1.0    0.99955   0.84033   0.91305    316400
+
+    accuracy                        0.84567    328130
+   macro avg    0.59321   0.91505   0.61371    328130
+weighted avg    0.97050   0.84567   0.89165    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:620.3789517879486
+Testing time:5.048626899719238
+              precision    recall  f1-score   support
+
+         0.0    0.26669   0.99275   0.42044     11730
+         1.0    0.99970   0.89880   0.94657    316400
+
+    accuracy                        0.90216    328130
+   macro avg    0.63320   0.94578   0.68350    328130
+weighted avg    0.97350   0.90216   0.92776    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:600.3596677780151
+Testing time:5.00792932510376
+              precision    recall  f1-score   support
+
+         0.0    0.63416   0.99173   0.77363     11730
+         1.0    0.99969   0.97879   0.98913    316400
+
+    accuracy                        0.97925    328130
+   macro avg    0.81692   0.98526   0.88138    328130
+weighted avg    0.98662   0.97925   0.98142    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:616.1679286956787
+Testing time:5.0443947315216064
+              precision    recall  f1-score   support
+
+         0.0    0.28343   0.99173   0.44086     11730
+         1.0    0.99966   0.90704   0.95110    316400
+
+    accuracy                        0.91007    328130
+   macro avg    0.64154   0.94939   0.69598    328130
+weighted avg    0.97406   0.91007   0.93286    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:586.5544722080231
+Testing time:12.542994022369385
+              precision    recall  f1-score   support
+
+         0.0    0.49718   0.99122   0.66221     11730
+         1.0    0.99966   0.96284   0.98090    316400
+
+    accuracy                        0.96385    328130
+   macro avg    0.74842   0.97703   0.82155    328130
+weighted avg    0.98170   0.96385   0.96951    328130
+
+ ==== Test 69 Normal learning rate and anomaly threshold ====
+Training time:615.8936285972595
+Testing time:5.344112396240234
+              precision    recall  f1-score   support
+
+         0.0    0.52969   0.99088   0.69035     11730
+         1.0    0.99965   0.96738   0.98325    316400
+
+    accuracy                        0.96822    328130
+   macro avg    0.76467   0.97913   0.83680    328130
+weighted avg    0.98285   0.96822   0.97278    328130
+
+ ==== Test 46 Normal learning rate and anomaly threshold ====
+Training time:552.2680320739746
+Testing time:5.121257543563843
+              precision    recall  f1-score   support
+
+         0.0    0.86845   0.98431   0.92276     11730
+         1.0    0.99942   0.99447   0.99694    316400
+
+    accuracy                        0.99411    328130
+   macro avg    0.93393   0.98939   0.95985    328130
+weighted avg    0.99473   0.99411   0.99429    328130
+
+ ==== Test 46 Normal learning rate and anomaly threshold ====
+Training time:637.4984076023102
+Testing time:11.792906045913696
+              precision    recall  f1-score   support
+
+         0.0    0.77800   0.98593   0.86971     11730
+         1.0    0.99947   0.98957   0.99450    316400
+
+    accuracy                        0.98944    328130
+   macro avg    0.88874   0.98775   0.93210    328130
+weighted avg    0.99156   0.98944   0.99004    328130
+
+ ==== Test 46 Normal learning rate and anomaly threshold ====
+Training time:533.8113276958466
+Testing time:11.293644428253174
+              precision    recall  f1-score   support
+
+         0.0    0.51917   0.98465   0.67987     11730
+         1.0    0.99941   0.96619   0.98252    316400
+
+    accuracy                        0.96685    328130
+   macro avg    0.75929   0.97542   0.83120    328130
+weighted avg    0.98224   0.96685   0.97170    328130
+
+ ==== Test 46 Normal learning rate and anomaly threshold ====
+Training time:590.1763160228729
+Testing time:4.850473880767822
+              precision    recall  f1-score   support
+
+         0.0    0.38546   0.98338   0.55384     11730
+         1.0    0.99935   0.94188   0.96976    316400
+
+    accuracy                        0.94336    328130
+   macro avg    0.69240   0.96263   0.76180    328130
+weighted avg    0.97740   0.94336   0.95489    328130
+
+ ==== Test 46 Normal learning rate and anomaly threshold ====
+Training time:590.7513883113861
+Testing time:11.582287788391113
+              precision    recall  f1-score   support
+
+         0.0    0.49060   0.98602   0.65520     11730
+         1.0    0.99946   0.96204   0.98040    316400
+
+    accuracy                        0.96290    328130
+   macro avg    0.74503   0.97403   0.81780    328130
+weighted avg    0.98127   0.96290   0.96877    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:523.2848043441772
+Testing time:4.998166561126709
+              precision    recall  f1-score   support
+
+         0.0    0.42603   0.97826   0.59356     11730
+         1.0    0.99915   0.95114   0.97455    316400
+
+    accuracy                        0.95211    328130
+   macro avg    0.71259   0.96470   0.78406    328130
+weighted avg    0.97867   0.95211   0.96093    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:601.3302092552185
+Testing time:11.664340019226074
+              precision    recall  f1-score   support
+
+         0.0    0.54388   0.97536   0.69835     11730
+         1.0    0.99906   0.96967   0.98415    316400
+
+    accuracy                        0.96988    328130
+   macro avg    0.77147   0.97252   0.84125    328130
+weighted avg    0.98279   0.96988   0.97393    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:599.7530691623688
+Testing time:11.659733533859253
+              precision    recall  f1-score   support
+
+         0.0    0.35318   0.97707   0.51882     11730
+         1.0    0.99909   0.93366   0.96527    316400
+
+    accuracy                        0.93521    328130
+   macro avg    0.67613   0.95536   0.74204    328130
+weighted avg    0.97600   0.93521   0.94931    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:539.152768611908
+Testing time:10.805121898651123
+              precision    recall  f1-score   support
+
+         0.0    0.34254   0.97877   0.50748     11730
+         1.0    0.99915   0.93035   0.96353    316400
+
+    accuracy                        0.93208    328130
+   macro avg    0.67085   0.95456   0.73550    328130
+weighted avg    0.97568   0.93208   0.94723    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:595.9663190841675
+Testing time:10.55329704284668
+              precision    recall  f1-score   support
+
+         0.0    0.56716   0.97621   0.71748     11730
+         1.0    0.99909   0.97238   0.98556    316400
+
+    accuracy                        0.97252    328130
+   macro avg    0.78313   0.97430   0.85152    328130
+weighted avg    0.98365   0.97252   0.97597    328130
+
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:724.3232762813568
+Testing time:8.906604766845703
+              precision    recall  f1-score   support
+
+         0.0    0.38056   0.97280   0.54709     11730
+         1.0    0.99893   0.94130   0.96926    316400
+
+    accuracy                        0.94242    328130
+   macro avg    0.68974   0.95705   0.75818    328130
+weighted avg    0.97682   0.94242   0.95417    328130
+
+11411 18574 297826 319 0.027195225916453538
+ ==== Test 23 Normal learning rate and anomaly threshold ====
+Training time:474.00287413597107
+Testing time:5.562482118606567
+              precision    recall  f1-score   support
+
+         0.0    0.39945   0.97997   0.56756     11730
+         1.0    0.99921   0.94538   0.97155    316400
+
+    accuracy                        0.94662    328130
+   macro avg    0.69933   0.96267   0.76955    328130
+weighted avg    0.97777   0.94662   0.95711    328130
+
+TN:11495 FN:17282 TP:299118 FP:235FPR:0.020034100596760442

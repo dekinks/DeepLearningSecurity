@@ -482,3 +482,62 @@ Bashlite_Combo       1.00      1.00      1.00      8800
      macro avg       1.00      1.00      1.00     48458
   weighted avg       1.00      1.00      1.00     48458
 
+ ==== Test 23 features ====
+Training time:554.3766100406647
+Testing time:7.389723777770996
+Accuracy:0.9999174542903133
+F1-score:0.999917455738051
+Precision:0.9999174589798774
+Recall:0.9999174542903133
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.14101338386535645
+Testing time:0.03658771514892578
+Accuracy:0.999731726443518
+F1-score:0.9997318973353178
+Precision:0.9997325455032255
+Recall:0.999731726443518
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.026617765426635742
+Testing time:259.3655605316162
+Accuracy:0.999669817161253
+F1-score:0.9996698879176252
+Precision:0.9996701873646407
+Recall:0.999669817161253
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
