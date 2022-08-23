@@ -540,4 +540,596 @@ Bashlite_Combo       1.00      1.00      1.00      8800
       accuracy                           1.00     48458
      macro avg       1.00      1.00      1.00     48458
   weighted avg       1.00      1.00      1.00     48458
+===================================================================
+ ==== Test 23 features ====
+Training time:635.6263966560364
+Testing time:9.07179069519043
+Accuracy:0.999938090717735
+F1-score:0.9999380909522025
+Precision:0.999938093062517
+Recall:0.999938090717735
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.21451568603515625
+Testing time:0.0905306339263916
+Accuracy:0.999669817161253
+F1-score:0.9996699035630346
+Precision:0.9996701990623535
+Recall:0.999669817161253
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.08515286445617676
+Testing time:373.97908639907837
+Accuracy:0.999607907878988
+F1-score:0.9996080263828113
+Precision:0.9996084178058017
+Recall:0.999607907878988
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+==============================================================
+ ==== Test 23 features ====
+Training time:1821.2574653625488
+Testing time:8.707660436630249
+Accuracy:0.9999587271451567
+F1-score:0.9999587274467678
+Precision:0.999958734456588
+Recall:0.9999587271451567
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.2685892581939697
+Testing time:0.04368138313293457
+Accuracy:0.9996285443064097
+F1-score:0.9996287103423217
+Precision:0.999629240959663
+Recall:0.9996285443064097
+Hyper-parameters:{'target': 0.9999793767929077, 'params': {'batch_size': 1.5589668943443904, 'epochs': 35.210511977261724, 'learning_rate': 0.03967735065559277}}
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.0521397590637207
+Testing time:396.1905725002289
+Accuracy:0.9995872714515663
+F1-score:0.9995873600084846
+Precision:0.9995877441137891
+Recall:0.9995872714515663
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:786.4931592941284
+Testing time:2.794132709503174
+Accuracy:1.0
+F1-score:1.0
+Precision:1.0
+Recall:1.0
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.42599940299987793
+Testing time:0.14851999282836914
+Accuracy:0.9996285443064097
+F1-score:0.9996287775774977
+Precision:0.9996296654248876
+Recall:0.9996285443064097
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.0359499454498291
+Testing time:248.25443577766418
+Accuracy:0.999607907878988
+F1-score:0.9996080726212263
+Precision:0.9996087286733644
+Recall:0.999607907878988
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:795.9039061069489
+Testing time:2.9125256538391113
+Accuracy:0.9999793635725783
+F1-score:0.9999793626413978
+Precision:0.999979364816261
+Recall:0.9999793635725783
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.2688772678375244
+Testing time:0.03444385528564453
+Accuracy:0.9997729992983615
+F1-score:0.9997731026681542
+Precision:0.9997734842907803
+Recall:0.9997729992983615
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.023118019104003906
+Testing time:252.212566614151
+Accuracy:0.9996491807338314
+F1-score:0.9996491588727046
+Precision:0.9996492847720125
+Recall:0.9996491807338314
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:853.4722831249237
+Testing time:1.9022650718688965
+Accuracy:0.9999793635725783
+F1-score:0.9999793629433268
+Precision:0.9999793659173604
+Recall:0.9999793635725783
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.1030120849609375
+Testing time:0.028478622436523438
+Accuracy:0.9996491807338314
+F1-score:0.9996492412469531
+Precision:0.999649516779792
+Recall:0.9996491807338314
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.019797325134277344
+Testing time:196.61030912399292
+Accuracy:0.9997110900160964
+F1-score:0.9997110881767072
+Precision:0.9997111716976077
+Recall:0.9997110900160964
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:904.8643364906311
+Testing time:2.6803157329559326
+Accuracy:0.9999793635725783
+F1-score:0.999979364201477
+Precision:0.9999793684327826
+Recall:0.9999793635725783
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.15726613998413086
+Testing time:0.03802490234375
+Accuracy:0.9997936357257832
+F1-score:0.9997936868638135
+Precision:0.999793966128713
+Recall:0.9997936357257832
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.03660011291503906
+Testing time:281.38519310951233
+Accuracy:0.9997936357257832
+F1-score:0.9997936540816005
+Precision:0.9997937428687759
+Recall:0.9997936357257832
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:848.7505793571472
+Testing time:3.0692028999328613
+Accuracy:1.0
+F1-score:1.0
+Precision:1.0
+Recall:1.0
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.13165044784545898
+Testing time:0.041472434997558594
+Accuracy:0.9996904535886747
+F1-score:0.9996905300070102
+Precision:0.9996907880451025
+Recall:0.9996904535886747
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.024584531784057617
+Testing time:268.37894344329834
+Accuracy:0.999669817161253
+F1-score:0.9996697915804938
+Precision:0.9996699847982635
+Recall:0.999669817161253
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:995.5202214717865
+Testing time:2.9216179847717285
+Accuracy:0.999938090717735
+F1-score:0.9999380881739649
+Precision:0.9999380952333031
+Recall:0.999938090717735
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.28463220596313477
+Testing time:0.06307649612426758
+Accuracy:0.9997110900160964
+F1-score:0.9997111738885452
+Precision:0.9997113709145606
+Recall:0.9997110900160964
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.0243070125579834
+Testing time:241.28810381889343
+Accuracy:0.9997110900160964
+F1-score:0.9997111586043163
+Precision:0.9997113616701326
+Recall:0.9997110900160964
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:812.4894578456879
+Testing time:2.5993306636810303
+Accuracy:0.999938090717735
+F1-score:0.999938092399807
+Precision:0.9999381000957978
+Recall:0.999938090717735
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.10989093780517578
+Testing time:0.029161930084228516
+Accuracy:0.999731726443518
+F1-score:0.9997318571007257
+Precision:0.999732325965179
+Recall:0.999731726443518
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.022232532501220703
+Testing time:252.0691957473755
+Accuracy:0.9997110900160964
+F1-score:0.9997111682811928
+Precision:0.9997115466800586
+Recall:0.9997110900160964
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+ ==== Test 23 features ====
+Training time:783.7794363498688
+Testing time:3.102973461151123
+Accuracy:0.9999793635725783
+F1-score:0.999979364201477
+Precision:0.9999793684327826
+Recall:0.9999793635725783
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== Naive Bayes 23 features ====
+Training time:0.11635160446166992
+Testing time:0.032251834869384766
+Accuracy:0.999607907878988
+F1-score:0.999608142821251
+Precision:0.999608958352948
+Recall:0.999607907878988
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
+
+
+ ==== KNN 23 features ====
+Training time:0.08582782745361328
+Testing time:246.2196180820465
+Accuracy:0.9995047257418795
+F1-score:0.9995048538996567
+Precision:0.9995054987752533
+Recall:0.9995047257418795
+                precision    recall  f1-score   support
+
+Bashlite_Combo       1.00      1.00      1.00      8800
+ Bashlite_Junk       1.00      1.00      1.00      4245
+ Bashlite_Scan       1.00      1.00      1.00      4154
+  Bashlite_Udp       1.00      1.00      1.00     16592
+  Bashlite_Tcp       1.00      1.00      1.00     14667
+
+      accuracy                           1.00     48458
+     macro avg       1.00      1.00      1.00     48458
+  weighted avg       1.00      1.00      1.00     48458
 

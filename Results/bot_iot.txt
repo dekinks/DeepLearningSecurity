@@ -1,0 +1,216 @@
+==== Test Bot-Iot ====
+Training time:9.87264633178711
+Testing time:126.95479154586792
+              precision    recall  f1-score   support
+
+         0.0    0.00613   0.48611   0.01211       144
+         1.0    0.99998   0.99691   0.99844   3668045
+
+    accuracy                        0.99689   3668189
+   macro avg    0.50305   0.74151   0.50527   3668189
+weighted avg    0.99994   0.99689   0.99840   3668189
+
+ ==== Test Bot-Iot ====
+Training time:15.563623666763306
+Testing time:124.72473382949829
+              precision    recall  f1-score   support
+
+         0.0    0.00000   0.00000   0.00000       144
+         1.0    0.99996   1.00000   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.49998   0.50000   0.49999   3668189
+weighted avg    0.99992   0.99996   0.99994   3668189
+
+ ==== Test Bot-Iot ====
+Training time:15.651678800582886
+Testing time:121.00397944450378
+              precision    recall  f1-score   support
+
+         0.0    0.46809   0.15278   0.23037       144
+         1.0    0.99997   0.99999   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.73403   0.57639   0.61517   3668189
+weighted avg    0.99995   0.99996   0.99995   3668189
+
+ ==== Test Bot-Iot ====
+Training time:9.338789701461792
+Testing time:109.96990752220154
+              precision    recall  f1-score   support
+
+         0.0    0.96667   0.20139   0.33333       144
+         1.0    0.99997   1.00000   0.99998   3668045
+
+    accuracy                        0.99997   3668189
+   macro avg    0.98332   0.60069   0.66666   3668189
+weighted avg    0.99997   0.99997   0.99996   3668189
+
+ ==== Test Bot-Iot ====
+Training time:10.55288052558899
+Testing time:108.88371777534485
+              precision    recall  f1-score   support
+
+         0.0    0.21591   0.13194   0.16379       144
+         1.0    0.99997   0.99998   0.99997   3668045
+
+    accuracy                        0.99995   3668189
+   macro avg    0.60794   0.56596   0.58188   3668189
+weighted avg    0.99994   0.99995   0.99994   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.001AT:0.042Batch:82====
+Training time:12.4488525390625
+Testing time:125.08251786231995
+              precision    recall  f1-score   support
+
+         0.0    0.00738   0.52778   0.01456       144
+         1.0    0.99998   0.99721   0.99860   3668045
+
+    accuracy                        0.99720   3668189
+   macro avg    0.50368   0.76250   0.50658   3668189
+weighted avg    0.99994   0.99720   0.99856   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0005AT:0.042Batch:50====
+Training time:15.726172685623169
+Testing time:124.12690901756287
+              precision    recall  f1-score   support
+
+         0.0    0.06914   0.47917   0.12084       144
+         1.0    0.99998   0.99975   0.99986   3668045
+
+    accuracy                        0.99973   3668189
+   macro avg    0.53456   0.73946   0.56035   3668189
+weighted avg    0.99994   0.99973   0.99983   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0001AT:0.042Batch:50====
+Training time:15.595028638839722
+Testing time:123.84886693954468
+              precision    recall  f1-score   support
+
+         0.0    0.94286   0.22917   0.36872       144
+         1.0    0.99997   1.00000   0.99998   3668045
+
+    accuracy                        0.99997   3668189
+   macro avg    0.97141   0.61458   0.68435   3668189
+weighted avg    0.99997   0.99997   0.99996   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0001AT:0.042Batch:30====
+Training time:23.395856380462646
+Testing time:125.54852724075317
+              precision    recall  f1-score   support
+
+         0.0    0.71698   0.26389   0.38579       144
+         1.0    0.99997   1.00000   0.99998   3668045
+
+    accuracy                        0.99997   3668189
+   macro avg    0.85848   0.63194   0.69289   3668189
+weighted avg    0.99996   0.99997   0.99996   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0001AT:0.042Batch:40====
+Training time:18.7454195022583
+Testing time:123.08769965171814
+              precision    recall  f1-score   support
+
+         0.0    0.97059   0.22917   0.37079       144
+         1.0    0.99997   1.00000   0.99998   3668045
+
+    accuracy                        0.99997   3668189
+   macro avg    0.98528   0.61458   0.68539   3668189
+weighted avg    0.99997   0.99997   0.99996   3668189
+
+ ==== Test Bot-IotEpochs:1000LR:0.0001AT:0.042Batch:40====
+Training time:23.413536548614502
+Testing time:124.24065923690796
+              precision    recall  f1-score   support
+
+         0.0    0.57377   0.24306   0.34146       144
+         1.0    0.99997   0.99999   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.78687   0.62152   0.67072   3668189
+weighted avg    0.99995   0.99996   0.99996   3668189
+
+ ==== Test Bot-IotEpochs:100LR:0.0001AT:0.042Batch:40====
+Training time:2.65061092376709
+Testing time:123.2595443725586
+              precision    recall  f1-score   support
+
+         0.0    0.00000   0.00000   0.00000       144
+         1.0    0.99996   1.00000   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.49998   0.50000   0.49999   3668189
+weighted avg    0.99992   0.99996   0.99994   3668189
+
+ ==== Test Bot-IotEpochs:500LR:0.0001AT:0.042Batch:40====
+Training time:11.80288314819336
+Testing time:123.63000559806824
+              precision    recall  f1-score   support
+
+         0.0    1.00000   0.04861   0.09272       144
+         1.0    0.99996   1.00000   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.99998   0.52431   0.54635   3668189
+weighted avg    0.99996   0.99996   0.99995   3668189
+
+ ==== Test Bot-IotEpochs:500LR:0.0001AT:0.042Batch:40====
+Training time:11.874088525772095
+Testing time:123.05729246139526
+              precision    recall  f1-score   support
+
+         0.0    0.75000   0.10417   0.18293       144
+         1.0    0.99996   1.00000   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.87498   0.55208   0.59145   3668189
+weighted avg    0.99996   0.99996   0.99995   3668189
+
+ ==== Test Bot-IotEpochs:900LR:0.0001AT:0.042Batch:40====
+Training time:21.14129066467285
+Testing time:123.49201321601868
+              precision    recall  f1-score   support
+
+         0.0    0.11268   0.27778   0.16032       144
+         1.0    0.99997   0.99991   0.99994   3668045
+
+    accuracy                        0.99989   3668189
+   macro avg    0.55632   0.63885   0.58013   3668189
+weighted avg    0.99994   0.99989   0.99991   3668189
+
+ ==== Test Bot-IotEpochs:700LR:0.0001AT:0.042Batch:40====
+Training time:16.556447982788086
+Testing time:124.4909679889679
+              precision    recall  f1-score   support
+
+         0.0    0.30952   0.18056   0.22807       144
+         1.0    0.99997   0.99998   0.99998   3668045
+
+    accuracy                        0.99995   3668189
+   macro avg    0.65475   0.59027   0.61402   3668189
+weighted avg    0.99994   0.99995   0.99995   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0001AT:0.042Batch:40====
+Training time:18.905279874801636
+Testing time:123.93604302406311
+              precision    recall  f1-score   support
+
+         0.0    0.26667   0.16667   0.20513       144
+         1.0    0.99997   0.99998   0.99997   3668045
+
+    accuracy                        0.99995   3668189
+   macro avg    0.63332   0.58332   0.60255   3668189
+weighted avg    0.99994   0.99995   0.99994   3668189
+
+ ==== Test Bot-IotEpochs:800LR:0.0001AT:0.042Batch:50====
+Training time:15.71987795829773
+Testing time:122.2235758304596
+              precision    recall  f1-score   support
+
+         0.0    0.65789   0.17361   0.27473       144
+         1.0    0.99997   1.00000   0.99998   3668045
+
+    accuracy                        0.99996   3668189
+   macro avg    0.82893   0.58680   0.63735   3668189
+weighted avg    0.99995   0.99996   0.99995   3668189
+

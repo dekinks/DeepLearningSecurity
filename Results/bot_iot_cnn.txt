@@ -1,0 +1,94 @@
+ ==== Test 23 features ====
+Training time:7500.657502412796
+Testing time:49.89779543876648
+Accuracy:0.9999878976789093
+F1-score:0.99998370851297
+Precision:0.9999878980751161
+Recall:0.9999878976789093
+Hyper-parameters:{'target': 1.0, 'params': {'batch_size': 3.179494411695542, 'epochs': 36.701988678683904, 'learning_rate': 0.01946960847019594}}
+               precision    recall  f1-score   support
+
+         DDoS       1.00      1.00      1.00    288993
+          DoS       1.00      1.00      1.00    440993
+Reconaissance       1.00      1.00      1.00     13662
+        Theft       1.00      0.18      0.31        11
+
+     accuracy                           1.00    743659
+    macro avg       1.00      0.80      0.83    743659
+ weighted avg       1.00      1.00      1.00    743659
+
+
+ ==== Naive Bayes 23 features ====
+Training time:1.2165355682373047
+Testing time:0.5240063667297363
+Accuracy:0.9989081016971488
+F1-score:0.9988969704249915
+Precision:0.9989024336130135
+Recall:0.9989081016971488
+               precision    recall  f1-score   support
+
+         DDoS       1.00      1.00      1.00    288993
+          DoS       1.00      1.00      1.00    440993
+Reconaissance       0.99      0.95      0.97     13662
+        Theft       0.83      0.91      0.87        11
+
+     accuracy                           1.00    743659
+    macro avg       0.96      0.96      0.96    743659
+ weighted avg       1.00      1.00      1.00    743659
+
+
+ ==== KNN 23 features ====
+Training time:0.1818711757659912
+Testing time:18156.421640872955
+Accuracy:0.994735490325539
+F1-score:0.9943045494868834
+Precision:0.9947715729909443
+Recall:0.994735490325539
+               precision    recall  f1-score   support
+
+         DDoS       1.00      1.00      1.00    288993
+          DoS       0.99      1.00      1.00    440993
+Reconaissance       1.00      0.71      0.83     13662
+        Theft       1.00      0.09      0.17        11
+
+     accuracy                           0.99    743659
+    macro avg       1.00      0.70      0.75    743659
+ weighted avg       0.99      0.99      0.99    743659
+
+ ==== Test 23 features ====
+Training time:7208.511871814728
+Testing time:43.798954010009766
+Accuracy:1.0
+F1-score:1.0
+Precision:1.0
+Recall:1.0
+               precision    recall  f1-score   support
+
+         DDoS       1.00      1.00      1.00    288993
+          DoS       1.00      1.00      1.00    440993
+Reconaissance       1.00      1.00      1.00     13662
+        Theft       1.00      1.00      1.00        11
+
+     accuracy                           1.00    743659
+    macro avg       1.00      1.00      1.00    743659
+ weighted avg       1.00      1.00      1.00    743659
+
+
+ ==== Naive Bayes 23 features ====
+Training time:1.761125087738037
+Testing time:0.7050251960754395
+Accuracy:0.9989081016971488
+F1-score:0.9988969704249915
+Precision:0.9989024336130135
+Recall:0.9989081016971488
+               precision    recall  f1-score   support
+
+         DDoS       1.00      1.00      1.00    288993
+          DoS       1.00      1.00      1.00    440993
+Reconaissance       0.99      0.95      0.97     13662
+        Theft       0.83      0.91      0.87        11
+
+     accuracy                           1.00    743659
+    macro avg       0.96      0.96      0.96    743659
+ weighted avg       1.00      1.00      1.00    743659
+
