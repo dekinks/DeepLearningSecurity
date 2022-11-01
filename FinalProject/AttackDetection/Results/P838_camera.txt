@@ -1,7 +1,350 @@
 ==== Experiment with 115 features ====
-Learning rate:0.06822195262704427 - Epochs:527 - Batch size:16 - Anomaly threshold:nan
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.038
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:3802.2016797065735 - Testing time:19.60792589187622
+Optimization time:597.03080534935 - Training time:483.20853424072266 - Testing time:40.659663915634155
+Accuracy:0.9997044009104973
+F1-score:0.9998463081109372
+Precision:0.9996926634570081
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99232   0.99614     29555
+           1    0.99969   1.00000   0.99985    738377
+
+    accuracy                        0.99970    767932
+   macro avg    0.99985   0.99616   0.99800    767932
+weighted avg    0.99970   0.99970   0.99970    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03489456080655416
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:447.51531982421875 - Testing time:27.160615921020508
+Accuracy:0.9996314777870957
+F1-score:0.9998084001957974
+Precision:0.9996168737985
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99042   0.99519     29555
+           1    0.99962   1.00000   0.99981    738377
+
+    accuracy                        0.99963    767932
+   macro avg    0.99981   0.99521   0.99750    767932
+weighted avg    0.99963   0.99963   0.99963    767932
+
+=================================================================
+
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03428816298191138
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:364.6330966949463 - Testing time:31.80613136291504
+Accuracy:0.999648406369314
+F1-score:0.999817199991334
+Precision:0.9996344668021396
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99086   0.99541     29555
+           1    0.99963   1.00000   0.99982    738377
+
+    accuracy                        0.99965    767932
+   macro avg    0.99982   0.99543   0.99761    767932
+weighted avg    0.99965   0.99965   0.99965    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03202947330310061
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:280.54772448539734 - Testing time:26.887866020202637
+Accuracy:0.9996236645953027
+F1-score:0.9998043388039483
+Precision:0.9996087541595254
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99022   0.99509     29555
+           1    0.99961   1.00000   0.99980    738377
+
+    accuracy                        0.99962    767932
+   macro avg    0.99980   0.99511   0.99745    767932
+weighted avg    0.99962   0.99962   0.99962    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.038060083003109015
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:262.1016194820404 - Testing time:30.00381875038147
+Accuracy:0.999602829417188
+F1-score:0.9997935085869961
+Precision:0.9995871024337942
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.98968   0.99481     29555
+           1    0.99959   1.00000   0.99979    738377
+
+    accuracy                        0.99960    767932
+   macro avg    0.99979   0.99484   0.99730    767932
+weighted avg    0.99960   0.99960   0.99960    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.035396764722369585
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:258.7395911216736 - Testing time:33.02520561218262
+Accuracy:0.9996549173624748
+F1-score:0.999820584569325
+Precision:0.999641233506895
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99103   0.99550     29555
+           1    0.99964   1.00000   0.99982    738377
+
+    accuracy                        0.99965    767932
+   macro avg    0.99982   0.99552   0.99766    767932
+weighted avg    0.99966   0.99965   0.99965    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03811277560293022
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:233.3450539112091 - Testing time:13.734437465667725
+Accuracy:0.999656219561107
+F1-score:0.9998212614876731
+Precision:0.9996425868588394
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99107   0.99551     29555
+           1    0.99964   1.00000   0.99982    738377
+
+    accuracy                        0.99966    767932
+   macro avg    0.99982   0.99553   0.99767    767932
+weighted avg    0.99966   0.99966   0.99966    767932
+
+=================================================================
+==== Experiment with 115 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03579454954881894
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:249.09996938705444 - Testing time:19.435201168060303
+Accuracy:0.9996861701296469
+F1-score:0.9998368308626636
+Precision:0.9996737149649751
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99185   0.99591     29555
+           1    0.99967   1.00000   0.99984    738377
+
+    accuracy                        0.99969    767932
+   macro avg    0.99984   0.99592   0.99787    767932
+weighted avg    0.99969   0.99969   0.99969    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03850874861901649
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:200.2495629787445 - Testing time:29.95513105392456
+Accuracy:0.999557252465062
+F1-score:0.999769797421731
+Precision:0.9996303732958922
+Recall:0.9999092604455447
+              precision    recall  f1-score   support
+
+           0    0.99772   0.99076   0.99423     29555
+           1    0.99963   0.99991   0.99977    738377
+
+    accuracy                        0.99956    767932
+   macro avg    0.99867   0.99534   0.99700    767932
+weighted avg    0.99956   0.99956   0.99956    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.037451950683089506
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:198.6346824169159 - Testing time:19.387024879455566
+Accuracy:0.9996392909788887
+F1-score:0.9998124598430486
+Precision:0.9996344633380266
+Recall:0.999990519748042
+              precision    recall  f1-score   support
+
+           0    0.99976   0.99086   0.99529     29555
+           1    0.99963   0.99999   0.99981    738377
+
+    accuracy                        0.99964    767932
+   macro avg    0.99970   0.99543   0.99755    767932
+weighted avg    0.99964   0.99964   0.99964    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04986925981108938
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:198.1817717552185 - Testing time:12.191835880279541
+Accuracy:0.9996418953761531
+F1-score:0.9998138141757147
+Precision:0.9996344643277799
+Recall:0.9999932283914585
+              precision    recall  f1-score   support
+
+           0    0.99983   0.99086   0.99533     29555
+           1    0.99963   0.99999   0.99981    738377
+
+    accuracy                        0.99964    767932
+   macro avg    0.99973   0.99543   0.99757    767932
+weighted avg    0.99964   0.99964   0.99964    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.03677614986418284
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:197.19202041625977 - Testing time:11.827942848205566
+Accuracy:0.9996145492048775
+F1-score:0.9997996005551606
+Precision:0.9995992814141034
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.98998   0.99497     29555
+           1    0.99960   1.00000   0.99980    738377
+
+    accuracy                        0.99961    767932
+   macro avg    0.99980   0.99499   0.99738    767932
+weighted avg    0.99961   0.99961   0.99961    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04440011070736082
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:198.35319304466248 - Testing time:12.767781734466553
+Accuracy:0.9254048535547418
+F1-score:0.9596605753318546
+Precision:0.9995745760797332
+Recall:0.9228117885578776
+              precision    recall  f1-score   support
+
+           0    0.33927   0.99019   0.50538     29555
+           1    0.99957   0.92281   0.95966    738377
+
+    accuracy                        0.92540    767932
+   macro avg    0.66942   0.95650   0.73252    767932
+weighted avg    0.97416   0.92540   0.94218    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04877497241284689
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:202.55439829826355 - Testing time:12.316472291946411
+Accuracy:0.9996692415474286
+F1-score:0.9998280307215668
+Precision:0.9996561205798294
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99141   0.99568     29555
+           1    0.99966   1.00000   0.99983    738377
+
+    accuracy                        0.99967    767932
+   macro avg    0.99983   0.99570   0.99776    767932
+weighted avg    0.99967   0.99967   0.99967    767932
+
+=================================================================
+==== Experiment with 92 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.0611200175030018
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:208.05801248550415 - Testing time:12.111080646514893
+Accuracy:0.9996197579994062
+F1-score:0.9998023073173373
+Precision:0.9996087525705227
+Recall:0.9999959370348751
+              precision    recall  f1-score   support
+
+           0    0.99990   0.99022   0.99504     29555
+           1    0.99961   1.00000   0.99980    738377
+
+    accuracy                        0.99962    767932
+   macro avg    0.99975   0.99511   0.99742    767932
+weighted avg    0.99962   0.99962   0.99962    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.0446607683282707
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:190.10948300361633 - Testing time:12.25047516822815
+Accuracy:0.9996575217597391
+F1-score:0.9998219384069378
+Precision:0.9996439402144481
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99110   0.99553     29555
+           1    0.99964   1.00000   0.99982    738377
+
+    accuracy                        0.99966    767932
+   macro avg    0.99982   0.99555   0.99768    767932
+weighted avg    0.99966   0.99966   0.99966    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04417120270415823
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:176.1958622932434 - Testing time:14.763005018234253
+Accuracy:0.9988879223681263
+F1-score:0.999421590261043
+Precision:0.9996192850416957
+Recall:0.9992239736611515
+              precision    recall  f1-score   support
+
+           0    0.98080   0.99049   0.98562     29555
+           1    0.99962   0.99922   0.99942    738377
+
+    accuracy                        0.99889    767932
+   macro avg    0.99021   0.99486   0.99252    767932
+weighted avg    0.99890   0.99889   0.99889    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.050921306824509224
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:192.82239270210266 - Testing time:11.809271335601807
+Accuracy:0.9996588239583714
+F1-score:0.999822615327119
+Precision:0.9996452935737214
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99114   0.99555     29555
+           1    0.99965   1.00000   0.99982    738377
+
+    accuracy                        0.99966    767932
+   macro avg    0.99982   0.99557   0.99769    767932
+weighted avg    0.99966   0.99966   0.99966    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04398432890704069
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:189.01943612098694 - Testing time:12.114445924758911
+Accuracy:0.9996223623966706
+F1-score:0.9998036608450979
+Precision:0.9996128118658272
+Recall:0.9999945827131669
+              precision    recall  f1-score   support
+
+           0    0.99986   0.99032   0.99507     29555
+           1    0.99961   0.99999   0.99980    738377
+
+    accuracy                        0.99962    767932
+   macro avg    0.99974   0.99516   0.99744    767932
+weighted avg    0.99962   0.99962   0.99962    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:nan
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:189.61093544960022 - Testing time:12.282025337219238
 Accuracy:0.0384864805738008
 F1-score:0.0
 Precision:0.0
@@ -16,10 +359,10 @@ Recall:0.0
 weighted avg    0.00148   0.03849   0.00285    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.06822195262704427 - Epochs:527 - Batch size:16 - Anomaly threshold:nan
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:nan
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:3096.139171600342 - Testing time:17.26344585418701
+Optimization time:597.03080534935 - Training time:165.3565399646759 - Testing time:23.663779973983765
 Accuracy:0.0384864805738008
 F1-score:0.0
 Precision:0.0
@@ -34,10 +377,64 @@ Recall:0.0
 weighted avg    0.00148   0.03849   0.00285    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.06822195262704427 - Epochs:527 - Batch size:16 - Anomaly threshold:nan
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04359414493136398
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:4214.298067569733 - Testing time:43.41524696350098
+Optimization time:597.03080534935 - Training time:175.53454327583313 - Testing time:12.025979995727539
+Accuracy:0.9996431975747853
+F1-score:0.9998144923454397
+Precision:0.9996290535042937
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99073   0.99534     29555
+           1    0.99963   1.00000   0.99981    738377
+
+    accuracy                        0.99964    767932
+   macro avg    0.99981   0.99536   0.99758    767932
+weighted avg    0.99964   0.99964   0.99964    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.044725041049980804
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:178.09544277191162 - Testing time:11.801023244857788
+Accuracy:0.9996223623966706
+F1-score:0.9998036619085146
+Precision:0.9996074008991873
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99019   0.99507     29555
+           1    0.99961   1.00000   0.99980    738377
+
+    accuracy                        0.99962    767932
+   macro avg    0.99980   0.99509   0.99744    767932
+weighted avg    0.99962   0.99962   0.99962    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.058507035216497416
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:176.39436841011047 - Testing time:11.812880039215088
+Accuracy:0.9996353843829923
+F1-score:0.9998104309040956
+Precision:0.9996209336674532
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.99053   0.99524     29555
+           1    0.99962   1.00000   0.99981    738377
+
+    accuracy                        0.99964    767932
+   macro avg    0.99981   0.99526   0.99753    767932
+weighted avg    0.99964   0.99964   0.99963    767932
+
+=================================================================
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:nan
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:168.94100737571716 - Testing time:21.31343412399292
 Accuracy:0.0384864805738008
 F1-score:0.0
 Precision:0.0
@@ -52,129 +449,147 @@ Recall:0.0
 weighted avg    0.00148   0.03849   0.00285    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.06822195262704427 - Epochs:527 - Batch size:16 - Anomaly threshold:nan
+==== Experiment with 69 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04196660587702783
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:6602.233725309372 - Testing time:43.279051065444946
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:181.59061098098755 - Testing time:11.850558757781982
+Accuracy:0.9653224504252981
+F1-score:0.9816429396664158
+Precision:0.999618133599891
+Recall:0.9643027884129652
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.52628   0.99080   0.68743     29555
+           1    0.99962   0.96430   0.98164    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.96532    767932
+   macro avg    0.76295   0.97755   0.83453    767932
+weighted avg    0.98140   0.96532   0.97032    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.06822195262704427 - Epochs:527 - Batch size:16 - Anomaly threshold:nan
+==== Experiment with 46 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.047669678814815625
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:6590.350847482681 - Testing time:43.748106718063354
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:191.13916397094727 - Testing time:12.526214838027954
+Accuracy:0.9995507414719011
+F1-score:0.99976640940104
+Precision:0.9996384886387947
+Recall:0.9998943629067536
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.99734   0.99097   0.99414     29555
+           1    0.99964   0.99989   0.99977    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.99955    767932
+   macro avg    0.99849   0.99543   0.99696    767932
+weighted avg    0.99955   0.99955   0.99955    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.09451793386905902 - Epochs:527 - Batch size:16 - Anomaly threshold:0.06822195262704427
+==== Experiment with 46 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.04749749421339971
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:2862.0881555080414 - Testing time:12.685653448104858
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:177.64424014091492 - Testing time:12.757381439208984
+Accuracy:0.999679659136486
+F1-score:0.9998334461746784
+Precision:0.9996669478204714
+Recall:1.0
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    1.00000   0.99168   0.99582     29555
+           1    0.99967   1.00000   0.99983    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.99968    767932
+   macro avg    0.99983   0.99584   0.99783    767932
+weighted avg    0.99968   0.99968   0.99968    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.09451793386905902 - Epochs:527 - Batch size:16 - Anomaly threshold:0.06822195262704427
+==== Experiment with 46 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.044022077158862735
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:2427.4302763938904 - Testing time:32.2105770111084
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:170.08173847198486 - Testing time:12.613835096359253
+Accuracy:0.9996171536021419
+F1-score:0.9998009494844998
+Precision:0.9996263377717005
+Recall:0.9999756222092508
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.99939   0.99066   0.99500     29555
+           1    0.99963   0.99998   0.99980    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.99962    767932
+   macro avg    0.99951   0.99532   0.99740    767932
+weighted avg    0.99962   0.99962   0.99962    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.09451793386905902 - Epochs:527 - Batch size:16 - Anomaly threshold:0.06822195262704427
+==== Experiment with 23 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.069090483888412
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:4629.469527721405 - Testing time:33.855379581451416
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:147.3639943599701 - Testing time:12.403170585632324
+Accuracy:0.9866550684175162
+F1-score:0.9930146196757605
+Precision:0.9996171195588778
+Recall:0.9864987668900846
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.74598   0.99056   0.85105     29555
+           1    0.99962   0.98650   0.99301    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.98666    767932
+   macro avg    0.87280   0.98853   0.92203    767932
+weighted avg    0.98986   0.98666   0.98755    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.09451793386905902 - Epochs:527 - Batch size:16 - Anomaly threshold:0.06822195262704427
+==== Experiment with 23 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.06898556773385676
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:5639.563376665115 - Testing time:31.727891445159912
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:157.54424834251404 - Testing time:12.466923713684082
+Accuracy:0.8824192767067918
+F1-score:0.9349017549576726
+Precision:0.9995513863088035
+Recall:0.8781069832890245
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.24537   0.99015   0.39328     29555
+           1    0.99955   0.87811   0.93490    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.88242    767932
+   macro avg    0.62246   0.93413   0.66409    767932
+weighted avg    0.97053   0.88242   0.91406    767932
 
 =================================================================
-==== Experiment with 115 features ====
-Learning rate:0.09451793386905902 - Epochs:527 - Batch size:16 - Anomaly threshold:0.06822195262704427
+==== Experiment with 23 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.07116869068457103
 Training size:68959 - Testing size:767932
-Optimization time:315.96739864349365 - Training time:5185.01793885231 - Testing time:32.00692391395569
-Accuracy:0.0384864805738008
-F1-score:0.0
-Precision:0.0
-Recall:0.0
+Optimization time:597.03080534935 - Training time:144.3232822418213 - Testing time:10.990102529525757
+Accuracy:0.9853632873744029
+F1-score:0.9923332655786816
+Precision:0.9996152244684258
+Recall:0.9851566340771719
               precision    recall  f1-score   support
 
-           0    0.03849   1.00000   0.07412     29555
-           1    0.00000   0.00000   0.00000    738377
+           0    0.72760   0.99053   0.83895     29555
+           1    0.99962   0.98516   0.99233    738377
 
-    accuracy                        0.03849    767932
-   macro avg    0.01924   0.50000   0.03706    767932
-weighted avg    0.00148   0.03849   0.00285    767932
+    accuracy                        0.98536    767932
+   macro avg    0.86361   0.98784   0.91564    767932
+weighted avg    0.98915   0.98536   0.98643    767932
+
+=================================================================
+==== Experiment with 23 features ====
+Learning rate:0.0009079072179021427 - Epochs:168 - Batch size:99 - Anomaly threshold:0.06190976487912403
+Training size:68959 - Testing size:767932
+Optimization time:597.03080534935 - Training time:239.51570391654968 - Testing time:24.54832124710083
+Accuracy:0.9932546110853565
+F1-score:0.9964813511611542
+Precision:0.9996034228289444
+Recall:0.9933787211681837
+              precision    recall  f1-score   support
+
+           0    0.85685   0.99015   0.91869     29555
+           1    0.99960   0.99338   0.99648    738377
+
+    accuracy                        0.99325    767932
+   macro avg    0.92823   0.99177   0.95759    767932
+weighted avg    0.99411   0.99325   0.99349    767932
 
 =================================================================
